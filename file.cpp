@@ -14,6 +14,7 @@ int main() {
   fscanf(fptr, "%[^\n]", ch);
   printf("Data from the file:\n%s", ch);
   fclose(fptr);
+  ##asdasda
 
   return 0;
 }
